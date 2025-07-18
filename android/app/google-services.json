@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "470386057334",
+    "project_id": "frst-1fcd3",
+    "storage_bucket": "frst-1fcd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470386057334:android:d42248df7faa487cf43f57",
+        "android_client_info": {
+          "package_name": "com.example.api_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sB6hpHaPZe6jSfK1JKz9NGe8cDVcEwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470386057334:android:ef9272a25c9e31ebf43f57",
+        "android_client_info": {
+          "package_name": "com.example.car_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sB6hpHaPZe6jSfK1JKz9NGe8cDVcEwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470386057334:android:23d20c297b2d5939f43f57",
+        "android_client_info": {
+          "package_name": "com.example.job_protic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sB6hpHaPZe6jSfK1JKz9NGe8cDVcEwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
